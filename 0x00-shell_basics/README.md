@@ -1,1 +1,1 @@
-Mandatory tasks
+Scripts coding
